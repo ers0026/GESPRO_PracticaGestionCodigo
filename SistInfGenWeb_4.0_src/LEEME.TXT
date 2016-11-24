@@ -1,5 +1,5 @@
  -------------------------------------------------------------------------------------------------------------------------------
-|  SistInfGen  (Ejecutar la aplicación: java -jar SistInfGenWeb.jar)                                                            |
+|  SistInfGen  (Ejecutar la aplicación: java -jar -Dfile.encoding=UTF-8  SistInfGenWeb.jar )                                    |
 |  Es un un gestor de contenidos que genera un portal con la siguiente información dependiendo del nivel de gestión mantenido   |
 |                                                                                                                               |
 |		                                                                                                                        |
