@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="SistInfGenWeb_4.0_src/src/main"/>
+	<classpathentry kind="src" path="SistInfGenWeb_4.0_src/src/test"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura-2.0.3.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/asm-4.1.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/asm-analysis-4.1.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/asm-commons-4.1.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/asm-tree-4.1.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/asm-util-4.1.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/icu4j-2.6.1.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/jaxen-1.1-beta-8.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/jetty-6.1.14.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/jetty-util-6.1.14.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/servlet-api-2.5-6.1.14.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/tagsoup-0.9.7.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/xmlParserAPIs-2.6.2.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/cobertura/xom-1.0b3.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/csvjdbc-1.0-22.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/javassist-3.18.2-GA.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/jfreechart-1.0.9-swt.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/jfreechart-1.0.9.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/mockito-all-1.10.8.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/powermock-mockito-1.6.1-full.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/lib/sonar-ant-task-2.2.jar"/>
+	<classpathentry kind="lib" path="SistInfGenWeb_4.0_src/src/rsc-main/web/html/CodeEval.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
