@@ -474,7 +474,7 @@ public class DocHistoric extends DocSistInfHtml {
         int keyMin = obtenerCurso(true).get(Calendar.YEAR);
         int keyMax = obtenerCurso(false).get(Calendar.YEAR);
         Map<Integer, Number> nCountTutores = new HashMap<Integer, Number>();
-        while (keyMin < keyMax) {
+        while (keyMin <= keyMax) {
             List current = new ArrayList();
             int tutores = 0;
             if (cursosDefNuevos.containsKey(keyMin)) {
